@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Anusha
 
-<!--
-**Anu223146/anu223146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student currently learning Java and Data Structures & Algorithms.
 
-Here are some ideas to get you started:
+I am focused on building strong problem-solving skills and improving my programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Java
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+
+### Goals
+- Strengthen DSA concepts
+- Improve logical thinking
+- Become a software developer
+
